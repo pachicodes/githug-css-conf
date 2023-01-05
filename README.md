@@ -5,8 +5,9 @@ Quer ganhar brindes do Github e abraçar a Mona, nossa famosa Octogata mascote? 
 Siga o passo-a-passo abaixo e procure a @pachicodes  (que falou agora pouco no palco da Conferencia CSS Brasil) para fazer seu merge! (caso você precise de ajuda durante o processo, durante os intervalos, teremos voluntárias prontas para ajudar)
 
 ## Como participar?
-Responda a pergunta abaixo com um PR (Pull Request):
+Responda a seguinte pergunta com um PR (Pull Request):
 **Apenas respostas erradas: O que significa CSS?**
+*ps: respostas não podem conter palavras ofensivas*
 
 ## Como fazer um PR?
 1. Faça um fork desse repositório
