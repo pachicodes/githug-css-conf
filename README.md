@@ -1,5 +1,5 @@
 ## GitHug na CSS Conf
-Boas vindas ai GitHug!
+Boas vindas ao GitHug!
 Quer ganhar brindes do Github e abraçar a Mona, nossa famosa Octogata mascote? Você veio ao repo certo!
 
 Siga o passo-a-passo abaixo e procure a @pachicodes  (que falou agora pouco no palco da Conferencia CSS Brasil) para fazer seu merge! (caso você precise de ajuda durante o processo, durante os intervalos, teremos voluntárias prontas para ajudar)
