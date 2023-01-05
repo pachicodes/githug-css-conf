@@ -7,7 +7,7 @@ Siga o passo-a-passo abaixo e procure a @pachicodes  (que falou agora pouco no p
 ## Como participar?
 Responda a seguinte pergunta com um PR (Pull Request):
 **Apenas respostas erradas: O que significa CSS?**
-*ps: respostas não podem conter palavras ofensivas*
+>*ps: Use o bom senso na sua resposta, não use palavras ofensivas ou de baixo calão* ‼️
 
 ## Como fazer um PR?
 1. Faça um fork desse repositório
