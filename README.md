@@ -1,4 +1,4 @@
-## GitHug
+## GitHug na CSS Conf
 Boas vindas ai GitHug!
 Quer ganhar brindes do Github e abraçar a Mona, nossa famosa Octogata mascote? Você veio ao repo certo!
 
