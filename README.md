@@ -62,6 +62,10 @@ Responda a seguinte pergunta com um PR (Pull Request):
 
 "CSS significa (programar é mais sofrência, do ouvi todas músicas de Marília Mendonça na fossa)" - @d7lphins
 
+"CSS significa: antes de ficar bonito você vão chorar" @00BrendaXavier
+
+"CSS significa Cascating Style Shit" @_odenirdev
+
 "CSS é a abreviação de 'Cerveja, Sorvete e Sobremesa', uma forma do webmaster adicionar coisas deliciosas no site" - [@vt_norton](https://twitter.com/vt_norton)
 
 "CSS significa Cascating Style Shit" @_odenirdev
@@ -69,4 +73,5 @@ Responda a seguinte pergunta com um PR (Pull Request):
 "CSS significa cansei de ser surtada" - @julianajjo
 
 "CSS significa amar ver o resultado do meu trabalho" - @juregdev
+
 
