@@ -31,12 +31,17 @@ Responda a seguinte pergunta com um PR (Pull Request):
 # Respostas
 "CSS significa que isso é um teste" - @pachinocodes
 
+"CSS significa: purple hair;" - @Rapha-Borges
+
 "CSS significa, Cansada Sem Sanidade, sendo uma descrição ao estado de muitas DEVs" - @jakeliny
 
 "CSS significa Cavalo Comendo Sabugo" - @danillo523
 
 "CSS é um acrônimo para crying, suffering and sadness, em português significa, choro, sofrimento e tristeza" - [@nathyts](https://github.com/nathyts)
 
+"CSS é border: 1px solid red" @dericparra
+
+"CSS é a sigla de: CLT é soberano e seduzente" - [@dii_lua](https://github.com/leticiadasilva)
 
 "CSS significa Ceda Seu Suor por um botão" - [@ericknathan](https://github.com/ericknathan)
 
@@ -48,4 +53,6 @@ Responda a seguinte pergunta com um PR (Pull Request):
 
 "CSS significa Como Ser Sexy" - [@mauroviniciussilva](https://github.com/mauroviniciussilva)
 
+"CSS é descobrir que nada é perfeito, mas para tudo se dá um jeito! Claro, depois de muitas horas." - @drescamargo
 
+"CSS é um lembrete para ser saudável: Coma Sua Salada" @francineemilia
