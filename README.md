@@ -10,10 +10,10 @@ Responda a seguinte pergunta com um PR (Pull Request):
 > ‼️Use o bom senso na sua resposta, não use palavras ofensivas ou de baixo calão‼️
 
 ## Colaboradoras 
-![pachicodes(https://user-images.githubusercontent.com/44537285/213866847-4018743b-6588-4be4-b143-3e97ada4f2fc.png)
-![morgannadev](https://user-images.githubusercontent.com/44537285/213866859-1baf3a47-b9d3-491f-9bef-f49e1d584a9f.png)
-![moniquinhadev](https://user-images.githubusercontent.com/44537285/213866869-914f864d-e673-4151-9185-bd0056be66ad.png)
+<img src="https://user-images.githubusercontent.com/44537285/213866847-4018743b-6588-4be4-b143-3e97ada4f2fc.png" alt="pachicodes" style="width:100px;"/>
 
+<img src="https://user-images.githubusercontent.com/44537285/213866859-1baf3a47-b9d3-491f-9bef-f49e1d584a9f.png" alt="morgannadev" style="width:100px;"/>
+<img src="https://user-images.githubusercontent.com/44537285/213866869-914f864d-e673-4151-9185-bd0056be66ad.png" alt="moniquinha" style="width:100px;"/>
 
 ## Como fazer um PR?
 1. Faça um fork desse repositório
