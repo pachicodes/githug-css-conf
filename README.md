@@ -23,3 +23,4 @@ Responda a seguinte pergunta com um PR (Pull Request):
 
 # Respostas
 "CSS significa que isso é um teste" - @pachinocodes
+"CSS significa, Cansada Sem Sanidade, sendo uma descrição ao estado de muitas DEVs" - @jakeliny
