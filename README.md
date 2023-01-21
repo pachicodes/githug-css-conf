@@ -59,4 +59,4 @@ Responda a seguinte pergunta com um PR (Pull Request):
 
 "CSS significa (programar é mais sofrência, do ouvi todas músicas de Marília Mendonça na fossa)" - @d7lphins
 
-"CSS significa Cascating Style Shit"
+"CSS significa Cascating Style Shit" @_odenirdev
