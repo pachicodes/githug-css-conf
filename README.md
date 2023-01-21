@@ -29,6 +29,9 @@ Responda a seguinte pergunta com um PR (Pull Request):
 
 
 # Respostas
+
+"CSS significa que minha frase foi pra cima pq usei !important" - [@ninetails](https://github.com/ninetails) / [@SelphieAhri](https://twitter.com/SelphieAhri)
+
 "CSS significa que isso é um teste" - @pachinocodes
 
 "CSS significa: purple hair;" - @Rapha-Borges
@@ -60,3 +63,6 @@ Responda a seguinte pergunta com um PR (Pull Request):
 "CSS significa (programar é mais sofrência, do ouvi todas músicas de Marília Mendonça na fossa)" - @d7lphins
 
 "CSS significa: antes de ficar bonito você vão chorar" @00BrendaXavier
+
+"CSS significa Cascating Style Shit" @_odenirdev
+
