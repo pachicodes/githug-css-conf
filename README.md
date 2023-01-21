@@ -2,7 +2,7 @@
 Boas vindas ao GitHug!
 Quer ganhar brindes do Github e abraçar a Mona, nossa famosa Octogata mascote? Você veio ao repo certo!
 
-Siga o passo-a-passo abaixo e procure a @pachicodes  ou as colaboradoras ( para fazer seu merge! (caso você precise de ajuda durante o processo, durante os intervalos, teremos voluntárias prontas para ajudar)
+Siga o passo-a-passo abaixo e procure a @pachicodes  (que falou agora pouco no palco da Conferencia CSS Brasil) para fazer seu merge! (caso você precise de ajuda durante o processo, durante os intervalos, teremos voluntárias prontas para ajudar)
 
 ## Como participar?
 Responda a seguinte pergunta com um PR (Pull Request):
@@ -31,11 +31,21 @@ Responda a seguinte pergunta com um PR (Pull Request):
 # Respostas
 "CSS significa que isso é um teste" - @pachinocodes
 
+"CSS significa: purple hair;" - @Rapha-Borges
+
 "CSS significa, Cansada Sem Sanidade, sendo uma descrição ao estado de muitas DEVs" - @jakeliny
 
 "CSS significa Cavalo Comendo Sabugo" - @danillo523
 
 "CSS é um acrônimo para crying, suffering and sadness, em português significa, choro, sofrimento e tristeza" - [@nathyts](https://github.com/nathyts)
+
+"CSS é a sigla de: CLT é soberano e seduzente" - [@dii_lua](https://github.com/leticiadasilva)
+
+"CSS significa Ceda Seu Suor por um botão" - [@ericknathan](https://github.com/ericknathan)
+
+"CSS significa Cristo Salvador Senhor", amém - [@vcwild](https://github.com/vcwild)
+
+"CSS pra mim é arte... ficar 3 horas so pra centralizar uma div. - @Sanarielsen
 
 "CSS é loucura loucura loucura" -@veronicayey
 
