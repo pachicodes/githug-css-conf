@@ -25,5 +25,6 @@ Responda a seguinte pergunta com um PR (Pull Request):
 # Respostas
 "CSS significa que isso é um teste" - @pachinocodes
 
-
 "CSS significa Cavalo Comendo Sabugo" - @danillo523
+
+"CSS é um acrônimo para crying, suffering and sadness, em português significa, choro, sofrimento e tristeza" - [@nathyts](https://github.com/nathyts)
