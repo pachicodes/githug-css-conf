@@ -46,4 +46,6 @@ Responda a seguinte pergunta com um PR (Pull Request):
 
 "CSS é loucura loucura loucura" -@veronicayey
 
+"CSS significa Como Ser Sexy" - [@mauroviniciussilva](https://github.com/mauroviniciussilva)
+
 
