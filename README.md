@@ -38,6 +38,5 @@ Responda a seguinte pergunta com um PR (Pull Request):
 "CSS é um acrônimo para crying, suffering and sadness, em português significa, choro, sofrimento e tristeza" - [@nathyts](https://github.com/nathyts)
 
 "CSS significa ir além de centralizar uma div"
-[@flavia-dantas] ( https://github.com/flavia-dantas)
-
+@flavia-dantas
 
