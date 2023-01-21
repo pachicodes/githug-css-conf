@@ -43,4 +43,4 @@ Responda a seguinte pergunta com um PR (Pull Request):
 
 "CSS é loucura loucura loucura" -@veronicayey
 
-
+"CSS significa balde de tinta, já que o programador é o pedreiro da web". - @aaamenezes
