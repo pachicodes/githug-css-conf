@@ -37,4 +37,4 @@ Responda a seguinte pergunta com um PR (Pull Request):
 
 "CSS é um acrônimo para crying, suffering and sadness, em português significa, choro, sofrimento e tristeza" - [@nathyts](https://github.com/nathyts)
 
-"CSS é border: 1px solid red"
+"CSS é border: 1px solid red" @dericparra
