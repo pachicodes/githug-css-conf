@@ -56,3 +56,5 @@ Responda a seguinte pergunta com um PR (Pull Request):
 "CSS é descobrir que nada é perfeito, mas para tudo se dá um jeito! Claro, depois de muitas horas." - @drescamargo
 
 "CSS é um lembrete para ser saudável: Coma Sua Salada" @francineemilia
+
+"CSS significa (programar é mais sofrência, do ouvi todas músicas de Marília Mendonça na fossa)" - @d7lphins
