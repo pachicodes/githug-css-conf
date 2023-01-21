@@ -49,4 +49,4 @@ Responda a seguinte pergunta com um PR (Pull Request):
 
 "CSS é loucura loucura loucura" -@veronicayey
 
-
+"CSS é descobrir que nada é perfeito, mas para tudo se dá um jeito! Claro, depois de muitas horas." - @drescamargo
