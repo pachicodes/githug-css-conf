@@ -56,6 +56,8 @@ Responda a seguinte pergunta com um PR (Pull Request):
 
 "CSS é loucura loucura loucura" -@veronicayey
 
+"CSS significa balde de tinta, já que o programador é o pedreiro da web". - @aaamenezes 
+
 "CSS significa Como Ser Sexy" - [@mauroviniciussilva](https://github.com/mauroviniciussilva)
 
 "CSS é descobrir que nada é perfeito, mas para tudo se dá um jeito! Claro, depois de muitas horas." - @drescamargo
@@ -75,6 +77,4 @@ Responda a seguinte pergunta com um PR (Pull Request):
 "CSS significa cansei de ser surtada" - @julianajjo
 
 "CSS significa amar ver o resultado do meu trabalho" - @juregdev
-
-
 
