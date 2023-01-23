@@ -84,4 +84,4 @@ Responda a seguinte pergunta com um PR (Pull Request):
 
 "CSS significa amar ver o resultado do meu trabalho" - @juregdev
 
-
+"CSS significa Contenha Seu Stress (isso fará sentido quando precisar posicionar algum elemento)" - [@wallacefreitas](https://github.com/wallacefreitas)
