@@ -78,6 +78,8 @@ Responda a seguinte pergunta com um PR (Pull Request):
 
 "CSS significa Cascating Style Shit" @_odenirdev
 
+"CSS significa Console is suffering (Pq é cada erro que ele vê...)" - @xluizcruz
+
 "CSS significa cansei de ser surtada" - @julianajjo
 
 "CSS significa amar ver o resultado do meu trabalho" - @juregdev
